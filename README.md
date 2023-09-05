@@ -40,6 +40,9 @@ Welcome to the SFTP Desktop App repository! This application provides a user-fri
 4. To test an upload, click on the "Upload" button and select a file from your local machine.
 5. To download, select a file from the server's list and click the "Download" button.
 
+![image](https://github.com/ken3stokes/SFTP_Utility/assets/138406955/4027a7b4-86a3-41ed-8289-de6ae1cb25f0)
+
+
 📌 **Note**: Ensure your SFTP server is accessible and accepts connections on the specified port. The default port is 22, but some servers might use different ports.
 
 ## ⚠️Disclaimer⚠️
