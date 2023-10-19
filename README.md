@@ -1,8 +1,6 @@
-# SFTP Client ![Python](https://img.shields.io/badge/Python-3.8-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# SFTP Client ![Python](https://img.shields.io/badge/Python-3.11-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A simple and intuitive SFTP Client built with `PySimpleGUI` and `paramiko`.
-
-![Screenshot](link_to_screenshot.png) <!-- Replace with your application screenshot -->
 
 ## Features
 
